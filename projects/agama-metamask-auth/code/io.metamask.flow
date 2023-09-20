@@ -1,2 +1,5 @@
+// Metamask.io user password less authentication
 Flow io.metamask
      Basepath ""
+// Find user and not in DB then generate nonce and request for sign message
+Log "@info Find user and not in DB then generate nonce and request for sign message"
