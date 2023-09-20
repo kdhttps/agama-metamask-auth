@@ -1,1 +1,17 @@
-{}
+{
+    "agama-metamask-auth": {
+        "projectName": "agama-metamask-auth",
+        "description": "User Password-less Metamask Authentication ",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kdhttps/agama-metamask-auth",
+        "githubUri": "https://github.com/kdhttps/agama-metamask-auth",
+        "license": "MIT",
+        "lastUpdated": "1695203937591",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": []
+    }
+}
