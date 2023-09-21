@@ -13,8 +13,6 @@
             "openid-connect"
         ],
         "noDirectLaunch": [],
-        "configs": {
-            "io.metamask": {}
-        }
+        "configs": {}
     }
 }
