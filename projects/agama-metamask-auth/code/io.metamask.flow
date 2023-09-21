@@ -3,3 +3,5 @@ Flow io.metamask
      Basepath ""
 // Find user and not in DB then generate nonce and request for sign message
 Log "@info Find user and not in DB then generate nonce and request for sign message"
+// Login page with metamask login button
+data = RRF "login.ftlh" 
