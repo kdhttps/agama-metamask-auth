@@ -3,6 +3,82 @@
 		{
 			"width": 170,
 			"height": 121,
+			"id": "Agama-rrf-Node-86326f2a-0747-42d3-80f1-e15a7fdbbb78",
+			"position": {
+				"x": 459,
+				"y": 117
+			},
+			"type": "rrf",
+			"data": {
+				"id": "Agama-rrf-Node-86326f2a-0747-42d3-80f1-e15a7fdbbb78",
+				"type": "Agama-rrf-Node",
+				"parentId": "Agama-log-Node-4baac5a9-0ce9-402c-beb3-52a8d569cd72",
+				"whenCondition": "",
+				"inRepeatBlock": false,
+				"position": {
+					"x": 459,
+					"y": 117
+				},
+				"agamaData": {
+					"id": "Agama-rrf-Node-86326f2a-0747-42d3-80f1-e15a7fdbbb78",
+					"type": "Agama-rrf-Node",
+					"hasSuccess": false,
+					"hasFailure": false,
+					"hasRepeat": false,
+					"hasComment": true,
+					"hasNoRepeat": false,
+					"isTopLevelFlow": true,
+					"whenCondition": "",
+					"inRepeatBlock": false,
+					"parentId": "Agama-log-Node-4baac5a9-0ce9-402c-beb3-52a8d569cd72",
+					"name": "",
+					"basepath": "",
+					"comment": "Login page with metamask login button",
+					"notes": "",
+					"flowfilename": "",
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
+					"callType": "Call static method",
+					"arguments": "",
+					"logMessage": "",
+					"templatePath": "login.ftlh",
+					"maxIteration": "",
+					"idpAuthEndpoint": "",
+					"variableField": "",
+					"conditionInputField": "",
+					"valueField": "",
+					"returnVariable": "",
+					"javaClassName": "",
+					"javaMethodName": "",
+					"javaVariableName": "",
+					"maxIterationVariableName": "",
+					"logLevel": "",
+					"assignCallbackResult": "",
+					"displayName": "Login page",
+					"nodeColor": "",
+					"exceptionVariableField": "",
+					"hasExtraData": false,
+					"configParams": "{}",
+					"nodeIcon": "ph:globe-simple",
+					"asssignedVariableName": "data",
+					"flowname": "io.metamask"
+				}
+			},
+			"selected": true,
+			"dragging": false,
+			"positionAbsolute": {
+				"x": 459,
+				"y": 117
+			}
+		},
+		{
+			"width": 170,
+			"height": 121,
 			"id": "Agama-log-Node-4baac5a9-0ce9-402c-beb3-52a8d569cd72",
 			"position": {
 				"x": 259,
@@ -66,9 +142,10 @@
 					"configParams": "{}",
 					"nodeIcon": "octicon:log-16",
 					"flowname": ""
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 259,
@@ -155,6 +232,23 @@
 			"type": "straight",
 			"source": "Agama-start-Flow-2f1120ac-9852-42e0-afb3-86d85bca9564",
 			"target": "Agama-log-Node-4baac5a9-0ce9-402c-beb3-52a8d569cd72",
+			"label": "",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"labelBgStyle": {
+				"fill": "#FFCC00",
+				"color": "#fff",
+				"fillOpacity": 0.7
+			}
+		},
+		{
+			"id": "Agama-log-Node-4baac5a9-0ce9-402c-beb3-52a8d569cd72-Agama-rrf-Node-86326f2a-0747-42d3-80f1-e15a7fdbbb78-67171c87-4b82-47c2-93d9-8de09049cb91",
+			"type": "straight",
+			"source": "Agama-log-Node-4baac5a9-0ce9-402c-beb3-52a8d569cd72",
+			"target": "Agama-rrf-Node-86326f2a-0747-42d3-80f1-e15a7fdbbb78",
 			"label": "",
 			"labelBgPadding": [
 				8,
