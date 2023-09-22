@@ -14,20 +14,5 @@
         ],
         "noDirectLaunch": [],
         "configs": {}
-    },
-    "test": {
-        "projectName": "test",
-        "description": "tes",
-        "type": "community",
-        "author": "kdhttps",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/kdhttps/agama-metamask-auth",
-        "githubUri": "https://github.com/kdhttps/agama-metamask-auth",
-        "license": "MIT",
-        "lastUpdated": "1695373846140",
-        "tags": [
-            "social-logins"
-        ],
-        "noDirectLaunch": []
     }
 }
