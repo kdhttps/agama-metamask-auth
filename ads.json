@@ -14,20 +14,5 @@
         ],
         "noDirectLaunch": [],
         "configs": {}
-    },
-    "first": {
-        "projectName": "first",
-        "description": "first",
-        "type": "community",
-        "author": "kdhttps",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/kdhttps/agama-metamask-auth",
-        "githubUri": "https://github.com/kdhttps/agama-metamask-auth",
-        "license": "MIT",
-        "lastUpdated": "1695373965623",
-        "tags": [
-            "openid-connect"
-        ],
-        "noDirectLaunch": []
     }
 }
